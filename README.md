@@ -10,3 +10,9 @@ Starter code was given and following things were focused for this project -
 * Heading attribute : Sequential order from h1 to h6
 * Title element : Concise, descriptive title
 * Clean code
+
+## Lesson learned
+During working on the assignment, I learned following things -
+* Understanding of basic HTML structure
+* Git pull/push from and to Repository
+* How to deploy a URL from the gitpage
