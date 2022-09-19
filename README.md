@@ -1,5 +1,4 @@
 # Module 1 Challenge : Horiseon
-**Publish date:** September 18, 2022
 
 ## Description
 This is a first project to  a website "Horiseon" to be optimized for search engines, by following codebase standard.<br>
